@@ -5,4 +5,12 @@ Git : Git is a distributed version control system. we need to download and insta
 
   Install by agrreing and install
 
+1. go to terminal --> new terminal -->cmd
+git init
+git add .
+git commit -m "message"
+
+but for first time, git config --global user.email "emailid"
+git config --global user.name "name"
+
   
